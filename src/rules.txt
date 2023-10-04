@@ -1,0 +1,22 @@
+1. The game can be played by 2-4 players #
+2. The game starts with each player filling their rack with 7 letter tiles #
+3. The first player combines two or more of his or her letters to form a word and places 
+   it on the board to read either across or down with one letter on the center square. Diagonal words are not allowed. #
+4. Complete your turn by submitting, the word score for that turn will be added to your score. 
+   Then refill your rack will be refilled to 7 unless there are not enough letters in the tile bag. #
+5. Play passes to the next player. The next player, and then each in turn, adds one or more letters to 
+   those already played to form new words. All letters played on a turn must be placed in one row across 
+   or down the board, to form at least one complete word. If, at the same time, they touch others letters 
+   in adjacent rows, those must also form complete words, crossword fashion, with all such letters. 
+   The player gets full credit for all words formed or modified on their turn. #
+6. New words may be formed by: 
+  - Adding one or more letters to a word or letters already on the board. 
+  - Placing a word at right angles to a word already on the board. The new word must use one of the letters 
+    already on the board or must add a letter to it. 
+  - Placing a complete word parallel to a word already played so that adjacent letters also form complete words. #
+7. No tile may be shifted or replaced after it has been played and scored. #
+8. Blanks: The two blank tiles may be used as any letters. When playing a blank, you must state which letter 
+   it represents. It remains that letter for the rest of the game. #
+9. You may use a turn to exchange all of your letters, your letters will be added back to the bag, then you 
+   draw 7 letters. This ends your turn. #
+10. The game ends when all letters have been drawn and one player uses his or her last letter; or when all possible plays have been made. #
